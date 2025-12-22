@@ -26,7 +26,7 @@ This research aims to:
 - **Python**: Primary programming language
 - **PyTorch**: Deep learning framework
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -45,7 +45,7 @@ git clone https://github.com/pomegranata/YOLOv12_Optuna
 cd YOLOv12_Optuna
 ```
 
-## 📈 Results
+## Results
 
 Comparison between baseline YOLOv12 and Optuna-optimized YOLOv12 on the MoCA dataset:
 
@@ -59,7 +59,7 @@ Comparison between baseline YOLOv12 and Optuna-optimized YOLOv12 on the MoCA dat
 | **FPS** | 98.04 | 101.01 | **+2.97** |
 | **Training Time** | 5825 s | 5769 s | **-56 s** |
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 YOLOv12_Optuna/
@@ -104,7 +104,7 @@ Copyright (c) 2025 Imelda Maretta Putri
 - Optuna development team
 - Thesis advisor: Eko Hari Rachmawanto, M.Kom
 
-## 📚 References
+## References
 
 1. [YOLOv12 paper](https://arxiv.org/abs/2502.12524)
 2. [MoCA dataset paper](https://arxiv.org/abs/2011.11630)
